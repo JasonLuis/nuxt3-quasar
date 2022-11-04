@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.2.3",
+    "nuxt": "3.0.0-rc.11",
+    "sass": "^1.32.12"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.15.4",
+    "quasar": "^2.9.2"
+  }
+}
