@@ -1,6 +1,7 @@
 <template>
   <div class="q-pa-md q-gutter-sm">
-    <button>teste</button>
+    <q-btn color="white" text-color="black" label="Standard" />
+    <q-btn color="primary" label="Primary" />
   </div>
 </template>
 
